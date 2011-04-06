@@ -1,3 +1,6 @@
+// Facebook Stuff
+fbAsyncInit=function(){FB.init({appId:'121839497894126',status:true,cookie:true,xfbml:true});};(function(){var e=document.createElement('script');e.src='http://connect.facebook.net/en_US/all.js';e.async=true;document.getElementById('fb-root').appendChild(e);}());
+
 /*
  * jQuery Templates Plugin 1.0.0pre
  * http://github.com/jquery/jquery-tmpl
